@@ -83,4 +83,4 @@ curl -X POST http://localhost:8080/api/transactions \
 Se utiliza **Isolation Forest**, un algoritmo de aprendizaje no supervisado eficaz para la detección de anomalías. El modelo "aprende" qué constituye una transacción "normal" basándose en el monto (simplificado para esta demo) y detecta desviaciones significativas.
 
 ---
-Hecho por Jose Colomina Alvarez - 2024
+Hecho por Jose Colomina Alvarez - 2025
