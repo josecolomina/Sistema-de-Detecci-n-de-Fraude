@@ -83,4 +83,4 @@ curl -X POST http://localhost:8080/api/transactions \
 We use **Isolation Forest**, an unsupervised learning algorithm effective for anomaly detection. The model "learns" what constitutes a "normal" transaction based on the amount (simplified for this demo) and detects significant deviations.
 
 ---
-Created by Jose Colomina Alvarez - 2024
+Created by Jose Colomina Alvarez - 2025
